@@ -1,0 +1,24 @@
+!stalk meta.wikimedia page User:Rschen7754/Reports/.*
+!stalk en.wikipedia page Wikipedia:Requests for adminship/.*
+!stalk en.wikipedia page Wikipedia:Requests for bureaucratship/.*
+!stalk wikidata.wikipedia page Wikidata:Requests for permissions/.*
+!stalk commons.wikimedia page Commons:Administrators/Requests/.*
+!stalk commons.wikimedia page Commons:Bureaucrats/Requests/.*
+!stalk commons.wikimedia page Commons:CheckUsers/Requests/.*
+!stalk commons.wikimedia page Commons:Oversighters/Requests/.*
+!stalk meta.wikimedia page Meta:Requests for adminship/.*
+!stalk meta.wikimedia page Meta:Requests for bureaucratship/.*
+!stalk meta.wikimedia page Meta:Requests for checkuser/.*
+!stalk meta.wikimedia page Meta:Requests for oversight/.*
+!stalk meta.wikimedia page Request for an account on the Foundation wiki
+!stalk meta.wikimedia page OTRS/Volunteering
+!stalk meta.wikimedia page Meta:Administrators/Removal/.*
+!ignore wikidata.wikipedia page .*Header.*
+!stalk de.wikipedia page Wikipedia:Adminkandidaturen/.*
+!stalk de.wikipedia page Wikipedia:Oversightkandidaturen/.*
+!stalk de.wikipedia page Wikipedia:Bürokratenkandidaturen/.*
+!stalk fr.wikipedia page Wikipédia:Administrateur/.*
+!stalk fr.wikipedia page Wikipédia:Bureaucrate/.*
+!stalk fr.wikipedia page Wikipédia:Masqueur de modifications/Renouvellement
+!stalk fr.wikipedia page Wikipédia:Vérificateur d'adresses IP/Renouvellement
+!stalk test.wikipedia page User:Rschen7754/Reports/Test
